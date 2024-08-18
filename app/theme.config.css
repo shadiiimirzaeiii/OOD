@@ -1,0 +1,44 @@
+/* customize based on this repository: https://github.com/radix-ui/themes/blob/main/packages/radix-ui-themes/src/styles/tokens/typography.css */
+.radix-themes {
+  --default-font-family: var(--dana-font) !important;
+  font-family: var(--dana-font) !important;
+
+  --cursor-button: pointer !important;
+
+  --font-weight-regular: 400 !important;
+  --font-weight-regular: 500 !important;
+  --font-weight-medium: 600 !important;
+  --font-weight-bold: 700 !important;
+
+  --font-size-1: 10px !important;
+  --font-size-2: 12px !important;
+  --font-size-3: 14px !important;
+  --font-size-4: 16px !important;
+  --font-size-5: 20px !important;
+  --font-size-6: 22px !important;
+  --font-size-7: 24px !important;
+  --font-size-8: 32px !important;
+  --font-size-9: 40px !important;
+
+  --line-height-1: 150% !important;
+  --line-height-2: 150% !important;
+  --line-height-3: normal !important;
+  --line-height-4: auto !important;
+  --line-height-5: auto !important;
+  --line-height-6: auto !important;
+  --line-height-7: auto !important;
+  --line-height-8: auto !important;
+  --line-height-9: auto !important;
+
+  --letter-spacing-1: 0 !important;
+  --letter-spacing-2: 0 !important;
+  --letter-spacing-3: 0 !important;
+  --letter-spacing-4: 0 !important;
+  --letter-spacing-5: 0 !important;
+  --letter-spacing-6: 0 !important;
+  --letter-spacing-7: 0 !important;
+  --letter-spacing-8: 0 !important;
+  --letter-spacing-9: 0 !important;
+
+  --cursor-button: pointer !important;
+}

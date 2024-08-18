@@ -1,0 +1,15 @@
+export { default as CouponsIcon } from './CouponsIcon';
+export { default as Edit } from './Edit';
+export { default as LoginLogo } from './LoginLogo';
+export { default as LoginSvg } from './LoginSvg';
+export { default as More } from './More';
+export { default as MusicIcon } from './MusicIcon';
+export { default as PlusCircled } from './PlusCircled';
+export { default as BlackPlusCircled } from './BlackPlusCircled';
+export { default as ArrowDown } from './ArrowDown';
+export { default as ArrowLeft } from './ArrowLeft';
+export { default as ArrowRight } from './ArrowRight';
+export { default as ClipboardSmall } from './ClipboardSmall';
+export { default as Remove } from './Remove';
+export { default as PlaylistAdd } from './PlaylistAdd';
+export { default as Search } from './Search';

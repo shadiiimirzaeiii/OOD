@@ -1,0 +1,6 @@
+!.prettierrc.js
+
+src/**/*.generated.tsx
+src/**/*.generated.ts
+
+next.config.js
